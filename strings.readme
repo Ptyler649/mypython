@@ -1,0 +1,17 @@
+"this" and 'this' both return 'this' so evaluates to the same
+there are various common methods to manipulate strings
+"double".find("s") will return -1 when searching for s within the String
+"double".find("u") will return 2 which is the postion of "u" within the 
+  the string, notice this is zero indexed, starts from 0
+"TesTing".lower() will return the string as lower case
+"pass"+"word" will return "password" the + is used to concatentate strings
+"ha"*4 will return "hahahaha" 
+
+also for printing eol or tabs use the below
+print("Tab\tDeliminated") will print "Tab	Deliminated"
+print("Tab\nDeliminated") will print Tab and Deliminated on seperate lines
+also if u need to print a backslash the just use \\ to cancel one out
+this is the special character
+
+
+
