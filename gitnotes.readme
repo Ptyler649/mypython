@@ -1,0 +1,5 @@
+type python to start python and returns >>>
+type python -v to get the version in this case 2.7 mostly for scripting
+REPL is the >>> that your in as above
+type exit() or CTRL-D to exit this 
+
