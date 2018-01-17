@@ -1,0 +1,4 @@
+to convert a string to an int - int("1")
+to convert a string to a float - float("1.0")
+or to convert a number back to a string - str(5.6)
+
