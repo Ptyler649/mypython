@@ -2,4 +2,13 @@ type python to start python and returns >>>
 type python -v to get the version in this case 2.7 mostly for scripting
 REPL is the >>> that your in as above
 type exit() or CTRL-D to exit this 
+Save scripts as hello.py
+Run script using python hello.py
+to run as a script rather than having the python as above in front of it
+	add #!/usr/bin/python to the top of the hello.py program
+	also make the file executable chmod u+x hello.py
+	then you can run using ./hello.py
+if u dont know where python is installed on ubuntu just use the
+command 'which python' and then you can copy this into #!<path>
+note to add comments add a # at the start of the line
 
